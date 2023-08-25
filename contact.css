@@ -1,0 +1,10 @@
+.contact {
+    margin: 10px 20px;
+}
+
+h1,
+h3,
+a,
+p {
+    margin-block: 10px;
+}

@@ -1,0 +1,55 @@
+.upper-dev {
+    margin: 1em 2em;
+}
+
+.about-title {
+    text-align: center;
+    margin-block: 0.8em;
+}
+
+.upper-dev hr {
+    margin-block: 1em;
+}
+
+.main-para {
+    margin-block: 0.8em;
+}
+
+.upper-dev ul {
+    padding: 1em 1.5em;
+    border: 2px solid darkgray;
+    border-radius: 8px;
+    background-color: gray;
+}
+
+.upper-dev ul :last-child {
+    margin-bottom: 0px;
+}
+
+.upper-dev ul li {
+    border-top: 1px solid black;
+    margin-bottom: 0.5em;
+    padding-top: 0.5em;
+    padding-inline: 1em;
+}
+
+#second-hr {
+    margin: 2em;
+}
+
+.lower-dev {
+    margin: 1em 2em;
+    margin-bottom: 4em;
+}
+
+.scnd-title {
+    text-align: center;
+    margin-block: 0.8em;
+}
+
+.container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 1em;
+    margin-block: 1em;
+}
